@@ -1,0 +1,6 @@
+[package]
+name = "emcee-server"
+version = "0.0.0"
+authors = ["Osspial <osspial@gmail.com>"]
+
+[dependencies]
